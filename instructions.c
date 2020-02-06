@@ -1,5 +1,44 @@
 #include "instructions.h"
-#include "interpreter.h"
+
+void (*instructions[])(opPayload) = {nop, add, sub, and, orr, xor, not, lsh, ash, tcu, tcs, set, mov, ldw, stw, ldb, stb};
+payloadType instructionTypes[] = {opOnly, oprArBrC, oprArBrC, oprArBrC, oprArBrC, oprArBrC, oprArB, oprArBrC, oprArBrC, oprArBrC, oprArBrC, oprAimm, oprArB, oprArB, oprArB, oprArB, oprArB};
+
+instruction_t parseInstruction(uint32_t rawInstruction) {
+    instruction_t instruction;
+    instruction.opCode = rawInstruction >> 24 & 0xff;
+    payloadType operandsType = instructionTypes[instruction.opCode];
+    switch (operandsType) {
+        case opOnly:
+            break;
+        case oprA:
+            instruction.payload.oprA.rA = rawInstruction >> 16 & 0xff;
+            break;
+        case oprAimm:
+            instruction.payload.oprAimm.rA = rawInstruction >> 16 & 0xff;
+            instruction.payload.oprAimm.imm = rawInstruction >> 0 & 0xffff;
+            break;
+        case oprArB:
+            instruction.payload.oprArB.rA = rawInstruction >> 16 & 0xff;
+            instruction.payload.oprArB.rA = rawInstruction >> 16 & 0xff;
+            break;
+        case oprArBimm:
+            instruction.payload.oprArBimm.rA = rawInstruction >> 16 & 0xff;
+            instruction.payload.oprArBimm.rB = rawInstruction >> 8 & 0xff;
+            instruction.payload.oprArBimm.imm = rawInstruction >> 0 & 0xff;
+            break;
+        case oprArBrC:
+            instruction.payload.oprArBrC.rA = rawInstruction >> 16 & 0xff;
+            instruction.payload.oprArBrC.rB = rawInstruction >> 8 & 0xff;
+            instruction.payload.oprArBrC.rC = rawInstruction >> 0 & 0xff;
+            break;
+    }
+    return instruction;
+}
+
+void executeInstruction(uint32_t rawInstruction) {
+    instruction_t instruction = parseInstruction(rawInstruction);
+    (*instructions[instruction.opCode])(instruction.payload);
+}
 
 void nop(opPayload operands) {
     // Well, that was easy.
