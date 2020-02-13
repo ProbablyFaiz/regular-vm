@@ -5,5 +5,7 @@
 #include "vm.h"
 
 int main();
+void tests(void);
+int run(FILE * binaryFile);
 
 #endif
