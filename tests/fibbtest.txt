@@ -1,0 +1,713 @@
+------- START -------
+Register 0: 0	Register 1: 0	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 0	Register 27: 0
+Register 28: 0	Register 29: 0	Register 30: 0	Register 31: 0
+
+Register 0: 108	Register 1: 0	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 0	Register 27: 0
+Register 28: 0	Register 29: 0	Register 30: 0	Register 31: 0
+
+Register 0: 109	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 0	Register 27: 0
+Register 28: 0	Register 29: 0	Register 30: 0	Register 31: 0
+
+0
+Register 0: 110	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 0	Register 27: 0
+Register 28: 0	Register 29: 0	Register 30: 0	Register 31: 0
+
+Register 0: 111	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 0	Register 27: 4
+Register 28: 0	Register 29: 0	Register 30: 0	Register 31: 0
+
+Register 0: 112	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 0	Register 27: 4
+Register 28: 0	Register 29: 0	Register 30: 0	Register 31: 4
+
+Register 0: 113	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 0	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 0	Register 31: 4
+
+Register 0: 114	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 10	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 0	Register 31: 4
+
+Register 0: 115	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 0	Register 31: 4
+
+4
+Register 0: 116	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 0	Register 31: 4
+
+Register 0: 117	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 0	Register 31: 4
+
+Register 0: 118	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 0	Register 31: 8
+
+8
+Register 0: 119	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 0	Register 31: 8
+
+Register 0: 120	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 0	Register 31: 8
+
+Register 0: 121	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 0	Register 31: 12
+
+Register 0: 1	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 0	Register 31: 12
+
+Register 0: 2	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 12
+
+12
+Register 0: 3	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 12
+
+Register 0: 4	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 12
+
+Register 0: 5	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 16
+
+16
+Register 0: 6	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 16
+
+Register 0: 7	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 16
+
+Register 0: 8	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 20
+
+20
+Register 0: 9	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 20
+
+Register 0: 10	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 20
+
+Register 0: 11	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 24
+
+24
+Register 0: 12	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 24
+
+Register 0: 13	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 24
+
+Register 0: 14	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 28
+
+28
+Register 0: 15	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 28
+
+Register 0: 16	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 28
+
+Register 0: 17	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 32
+
+32
+Register 0: 18	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 32
+
+Register 0: 19	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 32
+
+Register 0: 20	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 36
+
+36
+Register 0: 21	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 36
+
+Register 0: 22	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 36
+
+Register 0: 23	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 40
+
+Register 0: 24	Register 1: 12	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 40
+
+Register 0: 25	Register 1: 12	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 40
+
+Register 0: 26	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 0	Register 30: 12	Register 31: 40
+
+Register 0: 27	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 0	Register 29: 0	Register 30: 12	Register 31: 40
+
+Register 0: 28	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 0	Register 29: 0	Register 30: 12	Register 31: 40
+
+Register 0: 29	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 1
+Register 28: 0	Register 29: 0	Register 30: 12	Register 31: 40
+
+Register 0: 30	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 1
+Register 28: 0	Register 29: 0	Register 30: 12	Register 31: 40
+
+Register 0: 31	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 1
+Register 28: 0	Register 29: 0	Register 30: 12	Register 31: 40
+
+Register 0: 77	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 1
+Register 28: 0	Register 29: 0	Register 30: 12	Register 31: 40
+
+Register 0: 78	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 1
+Register 28: 0	Register 29: 1	Register 30: 12	Register 31: 40
+
+Register 0: 81	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 1
+Register 28: 0	Register 29: 1	Register 30: 12	Register 31: 40
+
+Register 0: 82	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 0	Register 29: 1	Register 30: 12	Register 31: 40
+
+Register 0: 83	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 0	Register 29: 1	Register 30: 12	Register 31: 36
+
+Register 0: 84	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 36
+
+Register 0: 85	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 36
+
+Register 0: 86	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 32
+
+Register 0: 87	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 32
+
+Register 0: 88	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 32
+
+Register 0: 89	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 28
+
+Register 0: 90	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 28
+
+Register 0: 91	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 28
+
+Register 0: 92	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 24
+
+Register 0: 93	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 24
+
+Register 0: 94	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 24
+
+Register 0: 95	Register 1: 12	Register 2: 0	Register 3: 6
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 20
+
+Register 0: 96	Register 1: 12	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 20
+
+Register 0: 97	Register 1: 12	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 20
+
+Register 0: 98	Register 1: 12	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 16
+
+Register 0: 99	Register 1: 12	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 16
+
+Register 0: 100	Register 1: 12	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 16
+
+Register 0: 101	Register 1: 12	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 12
+
+Register 0: 102	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 12
+
+Register 0: 103	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 12
+
+Register 0: 104	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 12	Register 31: 8
+
+Register 0: 105	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 0	Register 31: 8
+
+Register 0: 106	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 0	Register 31: 8
+
+Register 0: 107	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 0	Register 31: 4
+
+Register 0: 123	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 0	Register 31: 4
+
+Register 0: 124	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 0	Register 31: 0
+
+Register 0: 125	Register 1: 6	Register 2: 0	Register 3: 0
+Register 4: 0	Register 5: 0	Register 6: 0	Register 7: 0
+Register 8: 0	Register 9: 0	Register 10: 0	Register 11: 0
+Register 12: 0	Register 13: 0	Register 14: 0	Register 15: 0
+Register 16: 0	Register 17: 0	Register 18: 0	Register 19: 0
+Register 20: 0	Register 21: 0	Register 22: 0	Register 23: 0
+Register 24: 0	Register 25: 0	Register 26: 122	Register 27: 4
+Register 28: 112	Register 29: 1	Register 30: 0	Register 31: 0
+

@@ -4,7 +4,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 
-#define VM_MEMORY_SIZE 4096
+#define VM_MEMORY_SIZE 16384
 #define VM_REGISTERS_SIZE 32
 #define VM_PC 0
 #define VM_TMP1 29

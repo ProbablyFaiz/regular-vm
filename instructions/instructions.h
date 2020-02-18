@@ -1,7 +1,7 @@
 #ifndef INSTRUCTIONS_H
 #define INSTRUCTIONS_H
 
-#include "vm.h"
+#include "../emulator/vm.h"
 
 #define VM_NUM_INSTRUCTIONS 17
 
@@ -12,9 +12,10 @@ typedef struct { uint8_t opCode; uint8_t rA; uint8_t rB; } oprArB_t;  // op rA r
 typedef struct { uint8_t opCode; uint8_t rA; uint8_t rB; int8_t imm; } oprArBimm_t;  // op rA rB imm
 typedef struct { uint8_t opCode; uint8_t rA; uint8_t rB; uint8_t rC; } oprArBrC_t; //op rA rB rC
 
-typedef enum _payloadType { opOnly, oprA, oprAimm, oprArB, oprArBimm, oprArBrC } operandsType;
+typedef enum { opOnly, oprA, oprAimm, oprArB, oprArBimm, oprArBrC } operandsType;
 
-typedef union _instruction_t {
+typedef union {
+    uint32_t rawInstruction;
     opOnly_t opOnly;
     oprA_t oprA;
     oprAimm_t oprAimm;
@@ -45,6 +46,7 @@ extern void (*instructions[])(instruction_t *);
 extern operandsType instructionTypes[];
 
 uint8_t getOpCode(const char * instructionToken);
-void executeInstruction(uint32_t * rawInstruction);
+instruction_t * parseInstruction(uint8_t * rawInstruction);
+void executeInstruction(uint8_t * rawInstruction);
 
 #endif

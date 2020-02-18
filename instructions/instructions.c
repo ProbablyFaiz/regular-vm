@@ -1,5 +1,6 @@
 #include "instructions.h"
 #include <string.h>
+#include <stdio.h>
 
 void (*instructions[])(instruction_t *) = {nop, add, sub, and, orr, xor, not, lsh, ash, tcu, tcs, set, mov, ldw, stw, ldb, stb};
 operandsType instructionTypes[] = {opOnly, oprArBrC, oprArBrC, oprArBrC, oprArBrC, oprArBrC, oprArB, oprArBrC, oprArBrC, oprArBrC, oprArBrC, oprAimm, oprArB, oprArB, oprArB, oprArB, oprArB};
@@ -42,8 +43,28 @@ uint8_t getOpCode(const char * instructionToken) {
     return -1;
 }
 
-void executeInstruction(uint32_t * rawInstruction) {
-    instruction_t * instruction = (instruction_t *)(rawInstruction);
+instruction_t * parseInstruction(uint8_t * rawInstruction) {
+    instruction_t * instruction;
+    instruction->opOnly.opCode = *rawInstruction;
+    operandsType operandsType = instructionTypes[instruction->opOnly.opCode];
+
+    if (operandsType == opOnly)
+        return instruction;
+    instruction->oprA.rA = rawInstruction[1];
+
+    if (operandsType == oprA)
+        return instruction;
+    
+    instruction->oprArB.rB = rawInstruction[2];
+    if (operandsType == oprArB)
+        return instruction;
+    
+    instruction->oprArBrC.rC = rawInstruction[3];
+    return instruction;
+}
+
+void executeInstruction(uint8_t * instructionInMemory) {
+    instruction_t * instruction = (instruction_t *) instructionInMemory;
     (*instructions[instruction->opOnly.opCode])(instruction);
 }
 
@@ -52,23 +73,23 @@ void nop(instruction_t * operands) {
 }
 
 void add(instruction_t * operands) {
-    registers[operands->oprArBrC.rC] = registers[operands->oprArBrC.rA] + registers[operands->oprArBrC.rB];
+    registers[operands->oprArBrC.rA] = registers[operands->oprArBrC.rB] + registers[operands->oprArBrC.rC];
 }
 
 void sub(instruction_t * operands) {
-    registers[operands->oprArBrC.rC] = registers[operands->oprArBrC.rA] - registers[operands->oprArBrC.rB];
+    registers[operands->oprArBrC.rA] = registers[operands->oprArBrC.rB] - registers[operands->oprArBrC.rC];
 }
 
 void and(instruction_t * operands) {
-    registers[operands->oprArBrC.rC] = registers[operands->oprArBrC.rA] & registers[operands->oprArBrC.rB];
+    registers[operands->oprArBrC.rA] = registers[operands->oprArBrC.rB] & registers[operands->oprArBrC.rC];
 }
 
 void orr(instruction_t * operands) {
-    registers[operands->oprArBrC.rC] = registers[operands->oprArBrC.rA] | registers[operands->oprArBrC.rB];
+    registers[operands->oprArBrC.rA] = registers[operands->oprArBrC.rB] | registers[operands->oprArBrC.rC];
 }
 
 void xor(instruction_t * operands) {
-    registers[operands->oprArBrC.rC] = registers[operands->oprArBrC.rA] ^ registers[operands->oprArBrC.rB];
+    registers[operands->oprArBrC.rA] = registers[operands->oprArBrC.rB] ^ registers[operands->oprArBrC.rC];
 }
 
 void not(instruction_t * operands) {
@@ -100,7 +121,7 @@ void tcu(instruction_t * operands) {
     uint32_t rC = registers[operands->oprArBrC.rC];
     if (rB > rC)
         registers[operands->oprArBrC.rA] = 1;
-    if (rB < rC)
+    else if (rB < rC)
         registers[operands->oprArBrC.rA] = -1;
     else
         registers[operands->oprArBrC.rA] = 0;
@@ -135,9 +156,9 @@ void ldw(instruction_t * operands) {
 
 void stw(instruction_t * operands) {
     memory[registers[operands->oprArB.rA] + 0] = registers[operands->oprArB.rB] >> 0 & 0xff;
-         memory[registers[operands->oprArB.rA] + 1] = registers[operands->oprArB.rB] >> 8 & 0xff;
-         memory[registers[operands->oprArB.rA] + 2] = registers[operands->oprArB.rB] >> 16 & 0xff;
-         memory[registers[operands->oprArB.rA] + 3] = registers[operands->oprArB.rB] >> 24 & 0xff;
+    memory[registers[operands->oprArB.rA] + 1] = registers[operands->oprArB.rB] >> 8 & 0xff;
+    memory[registers[operands->oprArB.rA] + 2] = registers[operands->oprArB.rB] >> 16 & 0xff;
+    memory[registers[operands->oprArB.rA] + 3] = registers[operands->oprArB.rB] >> 24 & 0xff;
 }
 
 void ldb(instruction_t * operands) {

@@ -2,7 +2,8 @@
 #define ASSEMBLER_H
 
 #include <stdio.h>
-#include "vm.h"
+#include "../emulator/vm.h"
+#include "../instructions/instructions.h"
 
 int main(int argc, char *argv[]);
 void assembleFile(FILE * asmFile, FILE * binFile);

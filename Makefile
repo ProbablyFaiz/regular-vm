@@ -1,16 +1,16 @@
 COMPILER= cc
 CXXFLAGS= -g -o
 
-all: interpreter assembler disassembler
+all: emulator/emulator assembler/assembler
 
-interpreter: interpreter.c instructions.c
-	${COMPILER} ${CXXFLAGS} interpreter interpreter.c instructions.c
+emulator/emulator: emulator/emulator.c instructions/instructions.c emulator/vm.c
+	${COMPILER} ${CXXFLAGS} $@ $^
 
-assembler: assembler.c instructions.c
-	${COMPILER} ${CXXFLAGS} assembler assembler.c instructions.c
+assembler/assembler: assembler/assembler.c instructions/instructions.c emulator/vm.c
+	${COMPILER} ${CXXFLAGS} $@ $^
 
-disassembler: disassembler.c instructions.c
-	${COMPILER} ${CXXFLAGS} disassembler disassembler.c instructions.c
+disassembler/disassembler: disassembler/disassembler.c instructions/instructions.c emulator/vm.c
+	${COMPILER} ${CXXFLAGS} $@ $^
 
 clean:
-	rm -rf interpreter assembler disassembler
+	rm emulator/emulator assembler/assembler disassembler/disassembler

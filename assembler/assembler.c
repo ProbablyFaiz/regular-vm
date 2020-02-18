@@ -1,10 +1,11 @@
 #include "assembler.h"
-#include "instructions.h"
 #include <string.h>
+#include <errno.h>
 
 int main(int argc, char *argv[]) {
     char* asmFileName = argv[1];
 	FILE * asmFile = fopen(asmFileName, "r");
+	// printf("Error reading file: %s\n", strerror(errno));
 
     char* binaryFileName = argv[2];
 	FILE * binaryFile = fopen(binaryFileName,"wb");
@@ -21,7 +22,7 @@ void assembleFile(FILE * asmFile, FILE * binFile) {
 
     while (fgets(asmLine, sizeof(asmLine), asmFile)) {
         asmLine[strcspn(asmLine, "\n")] = '\0'; // Remove \n character from end of line
-        if (strcmp(asmLine, "") || asmLine[0] == '%') // Line is empty or commented out.
+        if (strcmp(asmLine, "") == 0 || asmLine[0] == '%') // Line is empty or commented out.
             continue;
 		writeBinForASMLine(asmLine, binFile);
     }
@@ -30,13 +31,13 @@ void assembleFile(FILE * asmFile, FILE * binFile) {
 int parseOperandToken(char * operandToken) {
     if(operandToken[0] == 'r')
 		operandToken++;
-    return atoi(*operandToken);
+    return atoi(operandToken);
 }
 
 void writeBinForASMLine(char * asmLine, FILE * binFile) {
 	char * token = strtok(asmLine, " ");
-	if (strcmp(asmLine, "inc")) {
-		assembleFile(asmLine, binFile);
+	if (strcmp(asmLine, "inc") == 0) {
+		// assembleFile(asmLine, binFile);
 		return;
 	}
 
@@ -47,7 +48,7 @@ void writeBinForASMLine(char * asmLine, FILE * binFile) {
 }
 
 void writeBinOperands(operandsType operandsType, const char * asmLine, FILE * binFile) {
-	char padding[3] = {0}; // Maximum of 3 bytes of padding necessary.
+	char padding[3] = {}; // Maximum of 3 bytes of padding necessary.
 
 	if (operandsType == opOnly) {
 		fwrite(&padding, 1, 3, binFile); // Write 3 bytes of zeroes
@@ -77,7 +78,7 @@ void writeBinOperands(operandsType operandsType, const char * asmLine, FILE * bi
 		return;
 	}
 
-	// Only remaining operand types have either an 8 bit imm or an 8 bit register address, so we can assign it now.
+	// Only remaining operand types have either an 8 bit imm or an 8 bit rC, so we can assign it now.
 	token = strtok(NULL, " ");
 	fputc(parseOperandToken(token), binFile);
 }

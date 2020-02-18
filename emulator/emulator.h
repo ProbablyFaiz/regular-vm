@@ -1,8 +1,9 @@
-#ifndef INTERPRETER_H
-#define INTERPRETER_H
+#ifndef EMULATOR_H
+#define EMULATOR_H
 
 #include <stdlib.h>
-#include "vm.h"
+#include <stdio.h>
+#include "../emulator/vm.h"
 
 int main();
 void tests(void);
